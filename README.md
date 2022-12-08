@@ -1,11 +1,5 @@
 # 문어상점 🐙
 
-<div>
-
-<img alt="쇼핑-데모 로고" src="https://octomaket.s3.ap-northeast-2.amazonaws.com/1668143702910_apple-icon-180x180.png">
-
-</div>
-
 <br />
 
 ### ✨ 서비스 소개 ✨
@@ -132,9 +126,7 @@
 
 ![image](https://i.ibb.co/9tGxmx0/image.png)<br />
 
-### 3-1. 폴더 구조
-<img src="https://octomaket.s3.ap-northeast-2.amazonaws.com/1668146249377_Screen%20Shot%202022-11-11%20at%202.56.44%20PM.png">
-<br />
+
 
 ## 4. 제작자
 
