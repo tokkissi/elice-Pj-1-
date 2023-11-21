@@ -4,7 +4,7 @@
 
 ### ✨ 서비스 소개 ✨
 
-#### 제품 등록, 장바구니 추가, 주문하기 등 쇼핑몰의 핵심 서비스를 구현합니다. 
+#### 제품 등록, 장바구니 추가, 주문하기 등이 가능한 식자재 쇼핑몰을 구현했습니다. 
 1. 회원가입, 로그인, 회원정보 수정 등 **유저 정보 관련 CRUD** 
 2. **제품 목록**을 조회 및, **제품 상세 정보**를 조회 가능함. 
 3. 장바구니에 제품을 추가할 수 있으며, **장바구니에서 CRUD** 작업이 가능함.
@@ -12,15 +12,63 @@
 5. 장바구니에서 주문을 진행하며, **주문 완료 후 조회 및 삭제**가 가능함.
 6. 주문 완료 시 Mail 발송 서비스 구현
 
-
 <br />
 
-### 1-1. API 문서
+### 1. 기능별 시연 영상
 
-### https://www.notion.so/API-dc9ada61dcce462bb76ac3c7678b132d
+<details><summary>로그인, 회원가입, 이메일 찾기</summary>
 
-<br>
+![문어상점-로그인,회원가입,이메일찾기](https://github.com/tokkissi/elice-Pj-1-/assets/53216523/0262f37c-91cc-4cca-81e4-b5261271f764)
 
+</details>
+<br />
+
+<details><summary>메인 페이지, 상품 페이지</summary>
+
+![문어상점-메인페이지,상품페이지](https://github.com/tokkissi/elice-Pj-1-/assets/53216523/b3c626b6-f81a-48b4-9383-ab2e58d768dd)
+
+</details>
+<br />
+<details><summary>장바구니 및 결제</summary>
+
+![문어상점-장바구니 및 결제 페이지](https://github.com/tokkissi/elice-Pj-1-/assets/53216523/d260eed5-8eb7-4e1e-89f7-ec608215f534)
+
+</details>
+<br />
+
+<details><summary>유저 정보 및 주문 관리</summary>
+
+![문어상점-유저 정보 및 주문 관리 페이지](https://github.com/tokkissi/elice-Pj-1-/assets/53216523/289caf6e-d10c-4b77-aacd-ba7eb50efdd5)
+
+</details>
+<br />
+
+<details><summary>관리자 로그인 및 주문 관리</summary>
+
+![문어상점-관리자 로그인 및 주문 관리 페이지](https://github.com/tokkissi/elice-Pj-1-/assets/53216523/fc2d4ae7-7db0-423d-a368-bfd0101278f2)
+
+</details>
+<br />
+
+<details><summary>상품 추가,상품 수정, 상품 삭제</summary>
+
+![문어상점-상품 추가,상품 수정, 상품 삭제](https://github.com/tokkissi/elice-Pj-1-/assets/53216523/3e45fa26-72a6-44ca-b58a-882f37826443)
+
+</details>
+<br />
+
+<details><summary>카테고리 수정</summary>
+
+![문어상점-카테고리 변경](https://github.com/tokkissi/elice-Pj-1-/assets/53216523/33ce259f-4efc-434a-b201-cbceb626dda5)
+
+</details>
+<br />
+
+<details><summary>무한스크롤 및 스크롤 이동 버튼</summary>
+
+![문어상점-무한스크롤 및 스크롤 이동 버튼](https://github.com/tokkissi/elice-Pj-1-/assets/53216523/44d6561c-02e9-4b71-8c35-eb6190a49880)
+
+</details>
 <br />
 
 
